@@ -1,13 +1,14 @@
 ---
-title: uniqueElementsByRight
-tags: array,intermediate
+title: Reversed unique values in array based on function
+tags: array
+cover: beach-from-above
 firstSeen: 2018-07-18T20:49:07+03:00
-lastUpdated: 2020-10-22T20:24:44+03:00
+lastUpdated: 2021-10-13T19:29:39+02:00
 ---
 
 Finds all unique values of an array, based on a provided comparator function, starting from the right.
 
-- Use `Array.prototype.reduceRight()` and `Array.prototype.some()` for an array containing only the last unique occurrence of each value, based on the comparator function, `fn`.
+- Use `Array.prototype.reduceRight()` and `Array.prototype.some()` to create an array containing only the last unique occurrence of each value, based on the comparator function, `fn`.
 - The comparator function takes two arguments: the values of the two elements being compared.
 
 ```js

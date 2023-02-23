@@ -1,6 +1,7 @@
 ---
-title: removeWhitespace
-tags: string,regexp,beginner
+title: Remove whitespaces
+tags: string,regexp
+cover: tropical-bike
 firstSeen: 2020-10-13T09:37:17+03:00
 lastUpdated: 2020-11-03T21:46:13+02:00
 ---

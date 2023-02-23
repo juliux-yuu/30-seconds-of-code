@@ -1,6 +1,8 @@
 ---
-title: assertValidKeys
-tags: object,intermediate
+title: Assert object keys are valid
+tags: object
+author: chalarangelo
+cover: river-flow
 firstSeen: 2021-07-18T05:00:00-04:00
 ---
 

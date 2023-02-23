@@ -1,6 +1,7 @@
 ---
-title: swapCase
-tags: string,beginner
+title: Swapcase string
+tags: string
+cover: mountain-lake-2
 firstSeen: 2020-11-15T13:09:03+02:00
 lastUpdated: 2020-11-15T13:09:03+02:00
 ---

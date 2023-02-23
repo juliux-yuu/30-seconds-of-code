@@ -1,6 +1,8 @@
 ---
-title: chunkify
-tags: function,generator,array,advanced
+title: Chunk iterable
+tags: function,generator,array
+author: chalarangelo
+cover: cave-view
 firstSeen: 2021-03-16T22:50:40+02:00
 lastUpdated: 2021-03-16T22:50:40+02:00
 ---

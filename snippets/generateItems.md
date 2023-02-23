@@ -1,6 +1,7 @@
 ---
-title: generateItems
-tags: array,function,intermediate
+title: Generate items
+tags: array,function
+cover: generator
 firstSeen: 2020-10-09T20:41:21+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---

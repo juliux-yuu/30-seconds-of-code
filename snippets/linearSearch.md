@@ -1,6 +1,7 @@
 ---
-title: linearSearch
-tags: algorithm,array,beginner
+title: Linear search
+tags: algorithm,array
+cover: coworking-space
 firstSeen: 2020-12-28T12:07:53+02:00
 lastUpdated: 2020-12-28T12:07:53+02:00
 ---

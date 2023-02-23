@@ -1,6 +1,7 @@
 ---
-title: httpGet
-tags: browser,intermediate
+title: HTTP get
+tags: browser
+cover: boat-port
 firstSeen: 2018-01-08T18:21:52+02:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---

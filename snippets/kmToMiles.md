@@ -1,7 +1,8 @@
 ---
-title: kmToMiles
-tags: math,beginner
+title: Km to miles
+tags: math
 unlisted: true
+cover: succulent-3
 firstSeen: 2020-10-04T00:50:13+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---

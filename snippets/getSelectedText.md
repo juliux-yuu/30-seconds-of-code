@@ -1,6 +1,8 @@
 ---
-title: getSelectedText
-tags: browser,beginner
+title: Get selected text
+tags: browser
+author: chalarangelo
+cover: white-tablet-2
 firstSeen: 2020-08-07T15:34:53+03:00
 lastUpdated: 2020-10-19T22:49:51+03:00
 ---

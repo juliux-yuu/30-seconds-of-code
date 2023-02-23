@@ -1,6 +1,7 @@
 ---
-title: remove
-tags: array,intermediate
+title: Remove matching elements from array
+tags: array
+cover: highlands
 firstSeen: 2017-12-17T16:41:31+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---
@@ -12,7 +13,6 @@ Mutates an array by removing elements for which the given function returns `fals
 - The callback function is invoked with three arguments (value, index, array).
 
 ```js
-
 const remove = (arr, func) =>
   Array.isArray(arr)
     ? arr.filter(func).reduce((acc, val) => {

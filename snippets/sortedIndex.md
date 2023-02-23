@@ -1,6 +1,7 @@
 ---
-title: sortedIndex
-tags: array,math,intermediate
+title: Insertion index in sorted array
+tags: array,math
+cover: apples
 firstSeen: 2017-12-31T16:39:06+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---

@@ -1,6 +1,7 @@
 ---
-title: dropRightWhile
-tags: array,intermediate
+title: Drop list elements from the right based on function
+tags: array
+cover: bridge-drop
 firstSeen: 2018-01-26T12:23:18+02:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---

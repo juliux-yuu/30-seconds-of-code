@@ -1,6 +1,8 @@
 ---
-title: isContainedIn
-tags: array,intermediate
+title: Array is contained in other array
+tags: array
+author: chalarangelo
+cover: island-corridor
 firstSeen: 2020-01-05T21:40:51+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---

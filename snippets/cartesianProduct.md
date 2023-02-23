@@ -1,6 +1,7 @@
 ---
-title: cartesianProduct
-tags: math,array,beginner
+title: Cartesian product
+tags: math,array
+cover: sail-away
 firstSeen: 2020-12-28T20:23:47+02:00
 lastUpdated: 2020-12-29T12:31:43+02:00
 ---

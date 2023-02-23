@@ -1,6 +1,8 @@
 ---
-title: findClosestMatchingNode
-tags: browser,intermediate
+title: Find closest matching node
+tags: browser
+author: chalarangelo
+cover: flowering-hills
 firstSeen: 2021-04-22T08:45:39+03:00
 lastUpdated: 2021-04-22T08:45:39+03:00
 ---

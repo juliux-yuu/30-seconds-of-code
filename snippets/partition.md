@@ -1,6 +1,7 @@
 ---
-title: partition
-tags: array,object,intermediate
+title: Partition array in two
+tags: array,object
+cover: sunflowers
 firstSeen: 2018-01-08T16:58:23+02:00
 lastUpdated: 2020-11-03T21:46:13+02:00
 ---

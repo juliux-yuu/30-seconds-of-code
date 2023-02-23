@@ -1,6 +1,7 @@
 ---
-title: recordAnimationFrames
-tags: browser,recursion,intermediate
+title: Record animation frames
+tags: browser,recursion
+cover: curve
 firstSeen: 2018-02-28T08:19:07+02:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---

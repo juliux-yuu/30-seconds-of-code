@@ -1,6 +1,8 @@
 ---
-title: countSubstrings
-tags: string,algorithm,beginner
+title: Count substrings of string
+tags: string,algorithm
+author: chalarangelo
+cover: obelisk
 firstSeen: 2020-12-31T13:58:51+02:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---

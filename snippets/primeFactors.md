@@ -1,6 +1,7 @@
 ---
-title: primeFactors
-tags: math,algorithm,beginner
+title: Prime factors of number
+tags: math,algorithm
+cover: dark-leaves-3
 firstSeen: 2020-12-28T13:11:01+02:00
 lastUpdated: 2020-12-28T13:11:01+02:00
 ---

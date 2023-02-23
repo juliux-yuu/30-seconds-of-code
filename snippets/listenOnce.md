@@ -1,6 +1,8 @@
 ---
-title: listenOnce
-tags: browser,event,beginner
+title: Listen for an event only once
+tags: browser,event
+author: chalarangelo
+cover: dog-waiting
 firstSeen: 2020-06-01T16:58:52+03:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---

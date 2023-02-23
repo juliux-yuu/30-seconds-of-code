@@ -1,6 +1,7 @@
 ---
-title: dateRangeGenerator
-tags: date,function,generator,advanced
+title: Date range generator
+tags: date,function,generator
+cover: portal-timelapse
 firstSeen: 2021-06-21T05:00:00-04:00
 ---
 

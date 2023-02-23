@@ -1,6 +1,7 @@
 ---
-title: stringPermutations
-tags: string,recursion,advanced
+title: String permutations
+tags: string,recursion
+cover: mac-and-coffee
 firstSeen: 2018-02-19T15:47:47+02:00
 lastUpdated: 2020-11-15T17:13:42+02:00
 ---

@@ -1,6 +1,7 @@
 ---
-title: compactObject
-tags: object,array,recursion,advanced
+title: Compact object
+tags: object,array,recursion
+cover: shapes
 firstSeen: 2020-11-27T13:57:41+02:00
 lastUpdated: 2020-11-27T13:57:41+02:00
 ---

@@ -1,7 +1,8 @@
 ---
-title: both
-tags: function,logic,beginner
+title: Logical and for functions
+tags: function,logic
 unlisted: true
+cover: succulent-2
 firstSeen: 2020-05-13T11:35:36+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---

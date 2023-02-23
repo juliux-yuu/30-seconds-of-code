@@ -1,6 +1,7 @@
 ---
-title: HSLToRGB
-tags: math,intermediate
+title: HSL to RGB
+tags: math
+cover: maple-leaf-palette
 firstSeen: 2020-10-01T23:15:49+03:00
 lastUpdated: 2020-10-04T11:24:27+03:00
 ---

@@ -1,7 +1,8 @@
 ---
-title: not
-tags: math,logic,beginner
+title: Logical not
+tags: math,logic
 unlisted: true
+cover: succulent-7
 firstSeen: 2020-05-13T11:28:26+03:00
 lastUpdated: 2021-01-04T13:04:15+02:00
 ---

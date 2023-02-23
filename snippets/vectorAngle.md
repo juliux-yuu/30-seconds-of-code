@@ -1,6 +1,7 @@
 ---
-title: vectorAngle
-tags: math,beginner
+title: Vector angle
+tags: math
+cover: avocado-slices
 firstSeen: 2019-12-16T16:43:13+02:00
 lastUpdated: 2021-01-08T00:23:44+02:00
 ---

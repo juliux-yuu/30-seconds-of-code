@@ -1,6 +1,7 @@
 ---
-title: minBy
-tags: math,array,beginner
+title: Min array value based on function
+tags: math,array
+cover: digital-nomad-9
 firstSeen: 2018-01-11T12:25:54+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---

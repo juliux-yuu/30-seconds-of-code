@@ -1,6 +1,8 @@
 ---
-title: hasOne
-tags: array,beginner
+title: Check if array has only one match
+tags: array
+author: chalarangelo
+cover: interior-10
 firstSeen: 2021-07-04T05:00:00-04:00
 ---
 

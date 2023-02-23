@@ -1,6 +1,7 @@
 ---
-title: powerset
-tags: math,algorithm,beginner
+title: Powerset
+tags: math,algorithm
+cover: new-plant
 firstSeen: 2017-12-07T14:41:33+02:00
 lastUpdated: 2021-09-27T15:27:07+02:00
 ---

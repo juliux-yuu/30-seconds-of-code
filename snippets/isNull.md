@@ -1,6 +1,7 @@
 ---
-title: isNull
-tags: type,beginner
+title: Value is null
+tags: type
+cover: broken-screen
 firstSeen: 2017-12-31T12:26:19+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---

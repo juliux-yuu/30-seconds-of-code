@@ -1,6 +1,7 @@
 ---
-title: extendHex
-tags: string,intermediate
+title: Extend hex value
+tags: string
+cover: red-mountain
 firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-09-15T16:28:04+03:00
 ---

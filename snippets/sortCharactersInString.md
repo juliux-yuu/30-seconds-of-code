@@ -1,6 +1,7 @@
 ---
-title: sortCharactersInString
-tags: string,beginner
+title: Sort characters in string
+tags: string
+cover: purple-flower-field
 firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---
@@ -8,7 +9,7 @@ lastUpdated: 2020-10-22T20:24:30+03:00
 Alphabetically sorts the characters in a string.
 
 - Use the spread operator (`...`), `Array.prototype.sort()` and  `String.prototype.localeCompare()` to sort the characters in `str`.
-- Recombine using `String.prototype.join('')`.
+- Recombine using `Array.prototype.join()`.
 
 ```js
 const sortCharactersInString = str =>

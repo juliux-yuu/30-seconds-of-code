@@ -1,6 +1,7 @@
 ---
-title: mostPerformant
-tags: function,advanced
+title: Most performant function
+tags: function
+cover: lake-runner
 firstSeen: 2018-02-14T13:38:45+02:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---

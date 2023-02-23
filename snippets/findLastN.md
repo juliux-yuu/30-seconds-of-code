@@ -1,6 +1,7 @@
 ---
-title: findLastN
-tags: array,intermediate
+title: Find last n matches
+tags: array
+cover: interior-16
 firstSeen: 2021-05-09T13:31:36+03:00
 lastUpdated: 2021-05-09T13:31:36+03:00
 ---

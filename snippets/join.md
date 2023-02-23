@@ -1,6 +1,7 @@
 ---
-title: join
-tags: array,intermediate
+title: Join array into string
+tags: array
+cover: couch-laptop
 firstSeen: 2018-01-01T12:18:40+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---
@@ -13,7 +14,6 @@ Uses a separator and an end separator.
 - Omit the third argument, `end`, to use the same value as `separator` by default.
 
 ```js
-
 const join = (arr, separator = ',', end = separator) =>
   arr.reduce(
     (acc, val, i) =>

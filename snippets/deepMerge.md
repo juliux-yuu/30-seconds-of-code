@@ -1,6 +1,8 @@
 ---
-title: deepMerge
-tags: object,function,advanced
+title: Deep merge objects
+tags: object,function
+author: chalarangelo
+cover: coffee-drip
 firstSeen: 2021-07-25T05:00:00-04:00
 ---
 

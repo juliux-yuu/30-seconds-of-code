@@ -1,6 +1,7 @@
 ---
-title: isAlpha
-tags: string,regexp,beginner
+title: String is alpha
+tags: string,regexp
+cover: coffee-phone-tray-3
 firstSeen: 2020-12-31T14:01:42+02:00
 lastUpdated: 2020-12-31T14:01:42+02:00
 ---

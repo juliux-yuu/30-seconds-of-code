@@ -1,6 +1,8 @@
 ---
-title: addEventListenerAll
-tags: browser,event,intermediate
+title: Add event listener to all targets
+tags: browser,event
+author: chalarangelo
+cover: red-mountain
 firstSeen: 2021-04-22T08:53:29+03:00
 lastUpdated: 2021-04-22T08:53:29+03:00
 ---

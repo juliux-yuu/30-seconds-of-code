@@ -1,6 +1,7 @@
 ---
-title: stableSort
-tags: array,advanced
+title: Stable sort
+tags: array
+cover: horse-sunset
 firstSeen: 2018-02-06T18:33:49+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---

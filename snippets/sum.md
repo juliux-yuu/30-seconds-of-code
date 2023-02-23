@@ -1,6 +1,7 @@
 ---
-title: sum
-tags: math,array,beginner
+title: Array sum
+tags: math,array
+cover: lake-trees
 firstSeen: 2017-12-29T13:29:49+02:00
 lastUpdated: 2020-10-22T20:24:30+03:00
 ---

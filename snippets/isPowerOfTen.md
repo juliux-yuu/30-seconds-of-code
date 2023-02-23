@@ -1,6 +1,8 @@
 ---
-title: isPowerOfTen
-tags: math,beginner
+title: Number is power of ten
+tags: math
+author: chalarangelo
+cover: boulder-beach
 firstSeen: 2021-01-06T22:53:58+02:00
 lastUpdated: 2021-01-06T22:53:58+02:00
 ---

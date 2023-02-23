@@ -1,6 +1,8 @@
 ---
-title: elementIsFocused
-tags: browser,beginner
+title: Element is focused
+tags: browser
+author: chalarangelo
+cover: ice
 firstSeen: 2020-08-07T15:21:27+03:00
 lastUpdated: 2020-10-19T18:51:03+03:00
 ---
